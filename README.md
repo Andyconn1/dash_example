@@ -7,3 +7,8 @@
     ```
 
 - If installing a module that depends on dash to a user's machine who does not have admin rights, then use: `pip install <module_name> --user`
+
+
+# To run
+
+- `& c:/Users/andyc/OneDrive/Desktop/repos/dash/.venv/Scripts/python.exe c:/Users/andyc/OneDrive/Desktop/repos/dash/src/test_dash.py`
